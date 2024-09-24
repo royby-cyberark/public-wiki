@@ -1,0 +1,10 @@
+# Python issues
+
+## ModuleNotFoundError: No module named '_lzma' when building python using pyenv on macos
+
+See:
+
+* https://github.com/pyenv/pyenv/wiki#suggested-build-environment
+* https://stackoverflow.com/questions/59690698/modulenotfounderror-no-module-named-lzma-when-building-python-using-pyenv-on
+
+install xz with brew, uninstall, install python with pyenv
